@@ -1,0 +1,4 @@
+this my first file
+newtext
+third line
+updated file
