@@ -1,3 +1,4 @@
 this my first file
 newtext added
 third line
+This line is for my first poll scm
